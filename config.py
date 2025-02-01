@@ -1,0 +1,7 @@
+# config.py
+WIDTH, HEIGHT = 500, 500
+FPS = 30
+BLACK = (0, 0, 0)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+WHITE = (255, 255, 255)
